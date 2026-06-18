@@ -1,0 +1,16 @@
+C:\Users\MIS\Desktop\University Management System\University Management System\bin\Debug\University Management System.exe.config
+C:\Users\MIS\Desktop\University Management System\University Management System\bin\Debug\University Management System.exe
+C:\Users\MIS\Desktop\University Management System\University Management System\bin\Debug\University Management System.pdb
+C:\Users\MIS\Desktop\University Management System\University Management System\bin\Debug\EntityFramework.dll
+C:\Users\MIS\Desktop\University Management System\University Management System\bin\Debug\EntityFramework.xml
+C:\Users\MIS\Desktop\University Management System\University Management System\obj\Debug\University Management System.csproj.AssemblyReference.cache
+C:\Users\MIS\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.Properties.Resources.resources
+C:\Users\MIS\Desktop\University Management System\University Management System\obj\Debug\University Management System.csproj.GenerateResource.cache
+C:\Users\MIS\Desktop\University Management System\University Management System\obj\Debug\University Management System.csproj.CoreCompileInputs.cache
+C:\Users\MIS\Desktop\University Management System\University Management System\obj\Debug\Universi.6C1924F2.Up2Date
+C:\Users\MIS\Desktop\University Management System\University Management System\obj\Debug\University Management System.exe
+C:\Users\MIS\Desktop\University Management System\University Management System\obj\Debug\University Management System.pdb
+C:\Users\MIS\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.LoginForm.resources
+C:\Users\MIS\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.StudentForm.resources
+C:\Users\MIS\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.InstructorForm.resources
+C:\Users\MIS\Desktop\University Management System\University Management System\obj\Debug\University_Management_System.AdminForm.resources
